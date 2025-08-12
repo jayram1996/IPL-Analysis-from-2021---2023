@@ -186,5 +186,5 @@ Hover over Player names for interactive tooltips.
 Jayram Prabhu
 📧 Email: prabhujayram1010@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/jayram-prabhu-5326a6182/
-💻 GitHub: 
+💻 GitHub: https://github.com/jayram1996
 
